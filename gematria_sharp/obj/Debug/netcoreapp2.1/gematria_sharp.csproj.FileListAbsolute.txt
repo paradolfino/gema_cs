@@ -1,0 +1,11 @@
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/bin/Debug/netcoreapp2.1/gematria_sharp.deps.json
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/bin/Debug/netcoreapp2.1/gematria_sharp.runtimeconfig.json
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/bin/Debug/netcoreapp2.1/gematria_sharp.runtimeconfig.dev.json
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/bin/Debug/netcoreapp2.1/gematria_sharp.dll
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/bin/Debug/netcoreapp2.1/gematria_sharp.pdb
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.csprojAssemblyReference.cache
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.csproj.CoreCompileInputs.cache
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.AssemblyInfoInputs.cache
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.AssemblyInfo.cs
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.dll
+/Users/viktharien/Projects/gematria_sharp/gematria_sharp/obj/Debug/netcoreapp2.1/gematria_sharp.pdb
