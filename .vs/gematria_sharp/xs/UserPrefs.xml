@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D892C42E-DEA0-4A50-A14F-E292EE3E05EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gematria_sharp/Program.cs">
+    <Files>
+      <File FileName="gematria_sharp/Program.cs" Line="9" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.gematria__sharp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
