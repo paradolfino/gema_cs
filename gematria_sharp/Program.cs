@@ -3,6 +3,7 @@ using System.Collections;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace gematria_sharp
 {
@@ -15,6 +16,7 @@ namespace gematria_sharp
             foreach(DictionaryEntry entry in vals) {
                 Console.WriteLine(entry.Key + ":" + entry.Value);
             }
+            Translate();
         }
 
         static void CreateAlphabet() {
@@ -31,13 +33,22 @@ namespace gematria_sharp
                     count = 1;
                 }
             }
+        }
 
-            //ICollection valKeys = vals.Keys;
-
-            //foreach(char i in valKeys) {
-            //    Console.WriteLine(i + ":" + vals[);
-            //}
-            //Console.ReadLine();
+        static void Translate() {
+            //        temp = input
+            //input = input.strip.downcase.split('')
+            //alphabet = create_alphabet; translation = []
+            //vowels = ["a", "e", "i", "o", "u"]; vowel_sum = []; cons_sum = []
+            //input.each { | i | vowel_sum << alphabet[i] if vowels.include ? (i) }
+            //        input.each { | i | cons_sum << alphabet[i] if !vowels.include ? (i) }
+            //        input.each { | i | translation << (alphabet[i] || 0) }
+            //        sequence = translation.join
+            //p "#{temp}:: Sequence: #{sequence} Sum #{translation.reduce(&:+)}"
+            //puts "Your numbers are: #{sum(vowel_sum.join + cons_sum.join, "Total")} #{sum(vowel_sum.join, "Vowels")} #{sum(cons_sum.join, "Consonants")}"
+            string temp = Console.ReadLine();
+            string input = Regex.Replace(temp.ToLower(), @"\s+", "");
+            
         }
     }
 }
